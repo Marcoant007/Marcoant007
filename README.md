@@ -10,7 +10,7 @@
 <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoant007&layout=compact&theme=dark" alt="Marcoant007" />
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Marcoant007&show_icons=true" alt="Marcoant007"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=Marcoant007&show_icons=true&theme=dark" alt="Marcoant007"/> 
 </p>
 
 
