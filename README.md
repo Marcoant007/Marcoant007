@@ -18,12 +18,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Marcoant007&show_icons=true&theme=dracula" alt="Marcoant007"/> 
 </p>
 
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Marcoant007&theme=dracula&layout=compact"/>
-
-
-
-    
-
 
 ### Onde me encontrar:
 
