@@ -16,7 +16,6 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Marcoant007&show_icons=true&theme=dracula" alt="Marcoant007"/> 
-</p>
 
 
 ### Onde me encontrar:
