@@ -4,7 +4,6 @@
 ## Sobre mim:
 - 🎓 Atualmente estudando PHP .
 - ❤️ Apaixonado por programação e tecnologia.
-- 🔎 A procura de oportunidade como Dev Junior.
 - 💻 Estudando: 
   ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
