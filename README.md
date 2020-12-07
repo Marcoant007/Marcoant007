@@ -8,7 +8,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
  ![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat&logoColor=fff&logo=angular)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
-
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=node)&nbsp;
 
 <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoant007&layout=compact&theme=dracula" alt="Marcoant007" />
 
