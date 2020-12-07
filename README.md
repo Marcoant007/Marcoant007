@@ -5,9 +5,8 @@
 - 🎓 Atualmente estudando PHP .
 - ❤️ Apaixonado por programação e tecnologia.
 - 💻 Estudando: 
-  ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=angular)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-  ![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat&logoColor=fff&logo=laravel)&nbsp;
+  ![Angular(https://img.shields.io/badge/-Laravel-ff2d20?style=flat&logoColor=fff&logo=angular)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 
 
