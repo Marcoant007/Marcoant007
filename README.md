@@ -6,7 +6,7 @@
 - ❤️ Apaixonado por programação e tecnologia.
 - 💻 Estudando: 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
- ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=angular)&nbsp;
+ ![Angular](https://img.shields.io/badge/-JavaScript-ff0000?style=flat&logoColor=fff&logo=angular)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 
 
