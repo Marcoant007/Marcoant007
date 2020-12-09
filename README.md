@@ -10,7 +10,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-006600?style=flat&logoColor=fff&logo=node.js)&nbsp;
   ![React](https://img.shields.io/badge/-React-993399?style=flat&logoColor=fff&logo=react)&nbsp;
-  ![Docker(https://img.shields.io/badge/-Docker-007ACC?style=flat&logoColor=fff&logo=docker)&nbsp;
+   ![TypeScript](https://img.shields.io/badge/-Docker-007ACC?style=flat&logoColor=fff&logo=docker)&nbsp;
 
 <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoant007&layout=compact&theme=dracula" alt="Marcoant007" />
 
