@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Olá, Seja bem vindo ao meu perfil 👋
+### Olá, Seja bem vindo ao meu perfil 
 
 ## Sobre mim:
 - 🎓 Atualmente Typescritp / Node.js
