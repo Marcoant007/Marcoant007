@@ -17,7 +17,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Marcoant007&show_icons=true&theme=dracula" alt="Marcoant007"/> 
 
-  <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopealves&langs_count=8)](https://github.com/joaopealves/github-readme-statsl" />
 
 ### Onde me encontrar:
 
