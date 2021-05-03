@@ -2,7 +2,7 @@
 ### Olá, Seja bem vindo ao meu perfil 
 
 ## Sobre mim:
-- 🎓 Atualmente Typescritp / Node.js
+- 🎓 Atualmente estudando Node.js
 - ❤️ Apaixonado por programação e tecnologia.
 - 💻 Estudando: 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
