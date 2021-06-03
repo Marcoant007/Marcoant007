@@ -2,7 +2,8 @@
 ### Olá, Seja bem vindo ao meu perfil 
 
 ## Sobre mim:
-- 🎓 Atualmente estudando Node.js
+- 🎓 Meu foco é em Backend com a linguagem javascript/Typescript
+- 🎓 Outras demais linguagens que se encontram em meu respositório é apenas para estudos da faculdade.
 - ❤️ Apaixonado por programação e tecnologia.
 - 💻 Estudando: 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
