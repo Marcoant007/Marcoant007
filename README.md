@@ -2,7 +2,7 @@
 ### Olá, Seja bem vindo ao meu perfil 
 
 ## Sobre mim:
-- 🎓 Meu foco é em Backend com a linguagem javascript/Typescript
+- 🎓 Meu foco é em Backend com as linguagens Javascript/Typescript
 - 🎓 Outras demais linguagens que se encontram em meu respositório é apenas para estudos da faculdade.
 - ❤️ Apaixonado por programação e tecnologia.
 - 💻 Estudando: 
