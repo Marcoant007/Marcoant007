@@ -2,16 +2,21 @@
 ### Olá, Seja bem vindo ao meu perfil 
 
 ## Sobre mim:
-- 🎓 Meu foco é em Backend com as linguagens Javascript/Typescript
-- 🎓 Outras demais linguagens que se encontram em meu respositório é apenas para estudos da faculdade.
-- ❤️ Apaixonado por programação e tecnologia.
-- 💻 Estudando: 
+- 🎓 Backend developer but flirting with frontend development
+- ❤️ Passionate about programming and technology.
+- 💻 I currently work with: 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
+   ![Java](https://img.shields.io/badge/-Java-fff?style=flat&logoColor=red&logo=java)&nbsp;
  ![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat&logoColor=fff&logo=angular)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-006600?style=flat&logoColor=fff&logo=node.js)&nbsp;
  ![Angular](https://img.shields.io/badge/-Git-ff0000?style=flat&logoColor=fff&logo=git)&nbsp;
  ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat&logoColor=fff&logo=docker)&nbsp;
+ 
+ - 🎓I am studying : ![SpringBoot](https://img.shields.io/badge/-SpringBoot-green?style=flat&logoColor=fff&logo=spring)&nbsp;
+ ![React](https://img.shields.io/badge/-React-black?style=flat&logoColor=blue&logo=react)&nbsp;
+
+ 
    
 
 <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoant007&layout=compact&theme=dracula" alt="Marcoant007" />
