@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Olá, Seja bem vindo ao meu perfil 
 
-## Sobre mim:
+## About me:
 - 🎓 Backend developer but flirting with frontend development
 - ❤️ Passionate about programming and technology.
 - 💻 I currently work with: 
@@ -19,10 +19,7 @@
  
    
 
-<img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoant007&layout=compact&theme=dracula" alt="Marcoant007" />
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Marcoant007&show_icons=true&theme=dracula" alt="Marcoant007"/> 
+<img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoant007&layout=compact&theme=dracula" alt="Marcoant007" /> <img src="https://github-readme-stats.vercel.app/api?username=Marcoant007&show_icons=true&theme=dracula" alt="Marcoant007"/> 
 
 
 ### Onde me encontrar:
