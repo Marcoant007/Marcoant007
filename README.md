@@ -13,7 +13,9 @@
  ![Angular](https://img.shields.io/badge/-Git-ff0000?style=flat&logoColor=fff&logo=git)&nbsp;
  ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat&logoColor=fff&logo=docker)&nbsp;
  
- - 🎓I am studying : ![SpringBoot](https://img.shields.io/badge/-SpringBoot-green?style=flat&logoColor=fff&logo=spring)&nbsp;
+ - 🎓I am studying :
+ - ![SpringBoot](https://img.shields.io/badge/-SpringBoot-green?style=flat&logoColor=fff&logo=spring)&nbsp;
+ - ![Quarkus](https://img.shields.io/badge/-Quarkus-010445?style=flat&logoColor=fff&logo=quarkus)&nbsp;
  ![React](https://img.shields.io/badge/-React-black?style=flat&logoColor=blue&logo=react)&nbsp;
 
  
