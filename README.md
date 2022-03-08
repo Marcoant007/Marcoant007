@@ -5,8 +5,8 @@
 - 🎓 Backend developer but flirting with frontend development
 - ❤️ Passionate about programming and technology.
 - 💻 I currently work with: 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-   ![Java](https://img.shields.io/badge/-Java-fff?style=flat&logoColor=red&logo=java)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-fff700?style=flat&logoColor=black&logo=javascript)&nbsp;
+   ![Java](https://img.shields.io/badge/-Java-F58219?style=flat&logoColor=fff&logo=java)&nbsp;
  ![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat&logoColor=fff&logo=angular)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-006600?style=flat&logoColor=fff&logo=node.js)&nbsp;
