@@ -4,21 +4,27 @@
 ## About me:
 - 🎓 Backend developer but flirting with frontend development
 - ❤️ Passionate about programming and technology.
-- 💻 I currently work with: 
+
+- 💻 Technologies that work on the BackEnd : <br> <br>
+  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-green?style=flat&logoColor=fff&logo=spring)&nbsp;
+  ![Quarkus](https://img.shields.io/badge/-Quarkus-010445?style=flat&logoColor=fff&logo=quarkus)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-fff700?style=flat&logoColor=black&logo=javascript)&nbsp;
-   ![Java](https://img.shields.io/badge/-Java-F58219?style=flat&logoColor=fff&logo=java)&nbsp;
- ![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat&logoColor=fff&logo=angular)&nbsp;
+  ![Java](https://img.shields.io/badge/-Java-F58219?style=flat&logoColor=fff&logo=java)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-006600?style=flat&logoColor=fff&logo=node.js)&nbsp;
- ![Angular](https://img.shields.io/badge/-Git-ff0000?style=flat&logoColor=fff&logo=git)&nbsp;
- ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat&logoColor=fff&logo=docker)&nbsp;
- 
- - 🎓I am studying :
- ![SpringBoot](https://img.shields.io/badge/-SpringBoot-green?style=flat&logoColor=fff&logo=spring)&nbsp;
-  ![Quarkus](https://img.shields.io/badge/-Quarkus-010445?style=flat&logoColor=fff&logo=quarkus)&nbsp;
- ![React](https://img.shields.io/badge/-React-black?style=flat&logoColor=blue&logo=react)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-ff0000?style=flat&logoColor=fff&logo=git)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat&logoColor=fff&logo=docker)&nbsp;
+  
+ - ⚡ I work with the following testing tools : <br> <br>
+  ![Junit](https://img.shields.io/badge/-Junit-ff0000?style=flat&logoColor=fff&logo=junit5)&nbsp;
+  ![Jest](https://img.shields.io/badge/-Jest-006600?style=flat&logoColor=fff&logo=jest)&nbsp;
+  
+ - 💻 Technologies that work on the FrontEnd :<br> <br>
+ ![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat&logoColor=fff&logo=angular)&nbsp;
+ ![Vue](https://img.shields.io/badge/-Vue-fff?style=flat&logoColor=006600&logo=vue.js)&nbsp;
 
- 
+ - 🎓 I'm interested in studying: <br> <br>
+ ![React](https://img.shields.io/badge/-React-fff?style=flat&logoColor=blue&logo=react)&nbsp;
    
 
 <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoant007&layout=compact&theme=dracula" alt="Marcoant007" /> <img src="https://github-readme-stats.vercel.app/api?username=Marcoant007&show_icons=true&theme=dracula" alt="Marcoant007"/> 
