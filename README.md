@@ -27,8 +27,14 @@
  ![React](https://img.shields.io/badge/-React-fff?style=flat&logoColor=blue&logo=react)&nbsp;
    
 
-<img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoant007&layout=compact&theme=dracula" alt="Marcoant007" /> <img src="https://github-readme-stats.vercel.app/api?username=Marcoant007&show_icons=true&theme=dracula" alt="Marcoant007"/> 
 
+
+<div align = "center">
+  <img  height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoant007&layout=compact&theme=dark" alt="Marcoant007" />
+  <img  height="200px" src="https://github-readme-stats.vercel.app/api?username=Marcoant007&show_icons=true&theme=dark" alt="Marcoant007"/> 
+<a href="https://git.io/streak-stats">
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcoant007&theme=dark"/> 
+</div>
 
 ### Onde me encontrar:
 
