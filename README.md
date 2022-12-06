@@ -26,19 +26,16 @@
  - 🎓 I'm interested in studying: <br> <br>
  ![React](https://img.shields.io/badge/-React-fff?style=flat&logoColor=blue&logo=react)&nbsp;
   
-  <div   >
-  <img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoant007&layout=compact&theme=dark" alt="Marcoant007" />
-  <img   src="https://github-readme-stats.vercel.app/api?username=Marcoant007&show_icons=true&theme=dark" alt="Marcoant007"/> 
+  <div>
+    <img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoant007&layout=compact&theme=dark" alt="Marcoant007" />
+    <img   src="https://github-readme-stats.vercel.app/api?username=Marcoant007&show_icons=true&theme=dark" alt="Marcoant007"/> 
   </div>
   <div>
-  <a href="https://git.io/streak-stats">
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcoant007&theme=dark"/> 
+    <a href="https://git.io/streak-stats">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcoant007&theme=dark"/> 
   </div>
 
 ### Onde me encontrar:
-
-
-
 <a href="https://www.linkedin.com/in/marco-antonnio-araujo/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/mrcx07"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:marcoantnovo@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
