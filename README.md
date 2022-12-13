@@ -32,7 +32,8 @@
   </div>
   <div>
     <a href="https://git.io/streak-stats">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcoant007&theme=dark"/> 
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcoant007&theme=chartreuse-dark"/> 
+     
   </div>
 
 ### Onde me encontrar:
