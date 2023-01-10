@@ -25,6 +25,8 @@
 
  - 🎓 I'm interested in studying: <br> <br>
  ![React](https://img.shields.io/badge/-React-fff?style=flat&logoColor=blue&logo=react)&nbsp;
+ ![Kafka](https://img.shields.io/badge/-Kafka-fff?style=flat&logoColor=red&logo=apachekafka)&nbsp;
+ ![RabbitMq](https://img.shields.io/badge/-RabbitMQ-fff?style=flat&logoColor=red&logo=rabbitmq)&nbsp;
   
   <div>
     <img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoant007&layout=compact&theme=dark" alt="Marcoant007" />
