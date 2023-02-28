@@ -19,15 +19,16 @@
   ![Junit](https://img.shields.io/badge/-Junit-ff0000?style=flat&logoColor=fff&logo=junit5)&nbsp;
   ![Jest](https://img.shields.io/badge/-Jest-006600?style=flat&logoColor=fff&logo=jest)&nbsp;
   
- - 💻 Technologies that work on the FrontEnd :<br> <br>
+ - 💻 I work on the frontend with the following technologies:<br> <br>
  ![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat&logoColor=fff&logo=angular)&nbsp;
  ![Vue](https://img.shields.io/badge/-Vue-fff?style=flat&logoColor=006600&logo=vue.js)&nbsp;
 
+ - 💻 Technologies I work with messaging: <br> <br>
+  ![Kafka](https://img.shields.io/badge/-Kafka-ff0000?style=flat&logoColor=fff&logo=apachekafka)&nbsp;
+  ![RabbitMq](https://img.shields.io/badge/-RabbitMQ-orange?style=flat&logoColor=fff&logo=rabbitmq)&nbsp;
+
  - 🎓 I'm interested in studying: <br> <br>
- ![React](https://img.shields.io/badge/-React-fff?style=flat&logoColor=blue&logo=react)&nbsp;
- ![Kafka](https://img.shields.io/badge/-Kafka-fff?style=flat&logoColor=red&logo=apachekafka)&nbsp;
- ![RabbitMq](https://img.shields.io/badge/-RabbitMQ-fff?style=flat&logoColor=red&logo=rabbitmq)&nbsp;
-  
+  ![React](https://img.shields.io/badge/-React-fff?style=flat&logoColor=blue&logo=react)&nbsp;
   <div>
     <img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoant007&layout=compact&theme=dark" alt="Marcoant007" />
     <img   src="https://github-readme-stats.vercel.app/api?username=Marcoant007&show_icons=true&theme=dark" alt="Marcoant007"/> 
