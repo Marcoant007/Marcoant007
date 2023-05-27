@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Olá, Seja bem vindo ao meu perfil 
 
 ## About me:
 - 🎓 Backend developer but flirting with frontend development
