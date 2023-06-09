@@ -8,7 +8,7 @@
   ![SpringBoot](https://img.shields.io/badge/-SpringBoot-006600?style=for-the-badge&logoColor=fff&logo=spring)&nbsp;
   ![Quarkus](https://img.shields.io/badge/-Quarkus-010445?style=for-the-badge&logoColor=fff&logo=quarkus)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-fff700?style=for-the-badge&logoColor=black&logo=javascript)&nbsp;
-  ![Java](https://img.shields.io/badge/-Java-F58219?style=for-the-badge&logoColor=fff&logo=socket-io)&nbsp;
+  ![Java](https://img.shields.io/badge/-WebSocket-30363d?style=for-the-badge&logoColor=fff002&logo=socket.io)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logoColor=fff&logo=typescript)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-006600?style=for-the-badge&logoColor=fff&logo=node.js)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-ff0000?style=for-the-badge&logoColor=fff&logo=git)&nbsp;
