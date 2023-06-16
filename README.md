@@ -14,7 +14,6 @@
       <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express"/>
       <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS"/>
       <img src="https://img.shields.io/badge/AdonisJS-5A45FF?logo=adonisjs&logoColor=white" alt="AdonisJS"/>
-      <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white" alt="Sequelize"/>
       <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" alt="Mongoose"/>
       <img src="https://img.shields.io/badge/Knex-D26B38?logoColor=white" alt="Knex"/>
       <img src="https://img.shields.io/badge/TypeORM-E83524?logoColor=white" alt="TypeORM"/>
