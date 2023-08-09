@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 ## About me:
@@ -16,10 +17,12 @@
 |:--------:|
 | <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite"/> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/Knex-D26B38?logoColor=white" alt="Knex"/> <img src="https://img.shields.io/badge/TypeORM-E83524?logoColor=white" alt="TypeORM"/> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/> | 
 
+
+| Estatísticas GitHub | Linguagens mais usadas |
+| ------------------ | --------------------- |
+| ![Stats GitHub](https://github-readme-stats.vercel.app/api/?username=Marcoant007&count_private=true&theme=dracula&showicons=true) | ![Stats languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoant007&langs_count=6&theme=dracula&hide=html,css) | 
+
+
 | Redes Sociais |
 |:--------:|
-|<a href="https://www.linkedin.com/in/marco-antonnio-araujo/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?&logo=linkedin&logoColor=white"></a> <a href="https://instagram.com/mrcx07"><img src="https://img.shields.io/badge/instagram-E4405F.svg?&logo=instagram&logoColor=white"></a>|
-
-
-
-
+|<a href="https://www.linkedin.com/in/marco-antonnio-araujo/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?&logo=linkedin&logoColor=white"></a> <a href="https://instagram.com/mrcx07"><img src="https://img.shields.io/badge/instagram-E4405F.svg?&logo=instagram&logoColor=white"></a>|   
