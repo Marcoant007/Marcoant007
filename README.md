@@ -17,15 +17,28 @@
 |:--------:|
 | <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite"/> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/Knex-D26B38?logoColor=white" alt="Knex"/> <img src="https://img.shields.io/badge/TypeORM-E83524?logoColor=white" alt="TypeORM"/> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/> | 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 
-|[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marcoant007&theme=radical&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)|[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcoant007&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)|  
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marcoant007&theme=radical&utcOffset=-3" alt="GitHub Commits" />
+        </a></td>
+      <td><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcoant007&theme=radical" alt="GitHub Details" />
+        </a></td>
+    </tr>
+  </table>
+</div>
 
- <div  align="center" style="margin-bottom:100px">
-    <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Marcoant007&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-    <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Marcoant007&show_icons=true&theme=radical&layout=compact" />
- </div>
-
+<div align="center">
+  <table>
+    <tr>
+      <td><img  src="https://github-readme-streak-stats.herokuapp.com?user=Marcoant007&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></td>
+      <td> <img style="width:500px"  src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Marcoant007&show_icons=true&theme=radical&layout=compact" /></td>
+    </tr>
+  </table>
+</div>
 
 
 | Redes Sociais |
