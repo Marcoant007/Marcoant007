@@ -19,9 +19,13 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+|[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marcoant007&theme=radical&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)|[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcoant007&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)|  
 
+ <div  align="center" style="margin-bottom:100px">
+    <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Marcoant007&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+    <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Marcoant007&show_icons=true&theme=radical&layout=compact" />
+ </div>
 
- ![Stats GitHub](https://github-readme-stats.vercel.app/api/?username=Marcoant007&count_private=true&theme=dracula&showicons=true) <br><br> ![Stats languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcoant007&langs_count=6&theme=dracula&hide=html,css) 
 
 
 | Redes Sociais |
