@@ -43,5 +43,5 @@
 
 | Redes Sociais |
 |:--------:|
-|<a href="https://www.linkedin.com/in/marco-antonnio-araujo/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?&logo=linkedin&logoColor=white"></a> <a href="https://instagram.com/mrcx07"><img src="https://img.shields.io/badge/instagram-E4405F.svg?&logo=instagram&logoColor=white"></a>  <a href="https://medium.com/@marcoantnovo"><img src="https://img.shields.io/badge/medium-black.svg?&logo=medium&logoColor=white"></a>|   
+|<a href="https://www.linkedin.com/in/marco-antonnio-araujo/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?&logo=linkedin&logoColor=white"></a> <a href="https://instagram.com/mrcx07"><img src="https://img.shields.io/badge/instagram-E4405F.svg?&logo=instagram&logoColor=white"></a>  <a href="https://medium.com/@marcoantdeveloper"><img src="https://img.shields.io/badge/medium-black.svg?&logo=medium&logoColor=white"></a>|   
 
