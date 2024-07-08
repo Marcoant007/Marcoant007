@@ -34,8 +34,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img  src="https://github-readme-streak-stats.herokuapp.com?user=Marcoant007&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></td>
-      <td> <img style="width:500px"  src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Marcoant007&show_icons=true&theme=radical&layout=compact" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com?user=Marcoant007&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></td>
+      <td><img src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Marcoant007&show_icons=true&theme=radical&layout=compact" style="width:500px" /></td>
     </tr>
   </table>
 </div>
