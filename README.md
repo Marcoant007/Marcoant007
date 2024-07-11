@@ -13,10 +13,13 @@
 |:-------:|:-------------:|:--------:|:---------------:|:----------:|:---:|
 | ![Junit](https://img.shields.io/badge/-Junit-ff0000?&logoColor=fff&logo=junit5) ![Jest](https://img.shields.io/badge/-Jest-006600?&logoColor=fff&logo=jest) | ![Kafka](https://img.shields.io/badge/-Kafka-ff0000?&logoColor=fff&logo=apachekafka) ![RabbitMq](https://img.shields.io/badge/-RabbitMQ-orange?&logoColor=fff&logo=rabbitmq) | <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" alt="Heroku"/> | <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/> | <img src="https://img.shields.io/badge/DDD-FC6D26?logoColor=white" alt="DDD"/> <img src="https://img.shields.io/badge/SOLID-FF9A00?logoColor=white" alt="SOLID"/> | <img src="https://img.shields.io/badge/REST-E6484F?logoColor=white" alt="REST"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white" alt="Swagger"/> <img src="https://img.shields.io/badge/GoogleAPI-white?logo=google" alt="Swagger"/>|
 
+<div align="center">
+
 | Database |
 |:--------:|
 | <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite"/> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/Knex-D26B38?logoColor=white" alt="Knex"/> <img src="https://img.shields.io/badge/TypeORM-E83524?logoColor=white" alt="TypeORM"/> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/> | 
 
+</div>
 
 <div align="center">
   <table>
