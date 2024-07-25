@@ -47,6 +47,6 @@
   
 | Onde me encontrar |
 |:--------:|
-|<a href="https://www.linkedin.com/in/marco-antonnio-araujo/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?&logo=linkedin&logoColor=white"></a> <a href="https://www.npmjs.com/~marcoantdev"><img src="https://img.shields.io/badge/npmjs-CC3534.svg?&logo=npm&logoColor=white"></a> <a href="https://medium.com/@marcoantdeveloper"><img src="https://img.shields.io/badge/medium-black.svg?&logo=medium&logoColor=white"></a>|
+|<a href="https://www.linkedin.com/in/marco-antonnio-araujo/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?&logo=linkedin&logoColor=white"></a> <a href="https://www.npmjs.com/~marcoantdev"><img src="https://img.shields.io/badge/npmjs-CC3534.svg?&logo=npm&logoColor=white"></a> <a href="https://medium.com/@marcoantdeveloper"><img src="https://img.shields.io/badge/medium-black.svg?&logo=medium&logoColor=white"> <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Rocketseat-purple"></a>|
 
 </div>
