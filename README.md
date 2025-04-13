@@ -44,6 +44,14 @@
 </div>
 
 <div align="center">
+   
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Marcoant007&theme=radical&no-frame=true&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest" alt="GitHub Trophies" />
+
+</div>
+
+<div align="center">
+
   
 | Onde me encontrar |
 |:--------:|
