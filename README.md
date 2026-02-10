@@ -19,42 +19,11 @@
 |:--------:|
 | <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite"/> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/Knex-D26B38?logoColor=white" alt="Knex"/> <img src="https://img.shields.io/badge/TypeORM-E83524?logoColor=white" alt="TypeORM"/> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma"/> | 
 
-</div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Marcoant007&theme=radical&utcOffset=-3" alt="GitHub Commits" />
-        </a></td>
-      <td><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcoant007&theme=radical" alt="GitHub Details" />
-        </a></td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com?user=Marcoant007&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></td>
-      <td><img src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Marcoant007&show_icons=true&theme=radical&layout=compact" style="width:500px" /></td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-   
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Marcoant007&theme=radical&no-frame=true&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest" alt="GitHub Trophies" />
-
-</div>
-
-<div align="center">
-
-  
 | Onde me encontrar |
 |:--------:|
 |<a href="https://www.linkedin.com/in/marco-antonnio-araujo/" target=_blank><img src="https://img.shields.io/badge/linkedin-0077B5.svg?&logo=linkedin&logoColor=white"></a> <a href="https://www.npmjs.com/~marcoantdev" target=_blank><img src="https://img.shields.io/badge/npmjs-CC3534.svg?&logo=npm&logoColor=white"></a> <a href="https://medium.com/@marcoantdeveloper"><img src="https://img.shields.io/badge/medium-black.svg?&logo=medium&logoColor=white">   <a  href="https://app.rocketseat.com.br/me/marco-ant07" target=_blank><img src="https://img.shields.io/badge/%F0%9F%9A%80%20Rocketseat-purple"></a>|
+</div>
+
 
 </div>
